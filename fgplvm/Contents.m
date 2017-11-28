@@ -12,8 +12,8 @@
 % DEMROBOTWIRELESSNAVIGATE Take some test data for the robot and navigate with it.
 % DEMROBOTTRACES1 Wireless Robot data from University of Washington, with tailored dynamics.
 % DEMROBOTWIRELESS1 Wireless Robot data from University of Washington, without dynamics and without back constraints.
-% DEMROBOTWIRELESS2 Wireless Robot data from University of Washington, without dynamics and without back constraints.
-% DEMROBOTWIRELESS4 Wireless Robot data from University of Washington with dynamics and no back constraints.
+% DEMROBOTWIRELESS2 Wireless Robot data from University of Washington, without dynamics and with back constraints.
+% DEMROBOTWIRELESS3 Wireless Robot data from University of Washington with dynamics and no back constraints.
 % DEMROBOTWIRELESS4 Wireless Robot data from University of Washington with dynamics and back constraints.
 % DEMROBOTWIRELESSNAVIGATE Take some test data for the robot and navigate with it.
 % DEMSPGP1D1 Do a simple 1-D regression after Snelson & Ghahramani's example.
